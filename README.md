@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning  **Python, SQL**
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ApoorvaSoni21/ApoorvaSoni21)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ApoorvaSoni21)
 - 💬 Ask me about **Python, SQL**
  
 <!--
