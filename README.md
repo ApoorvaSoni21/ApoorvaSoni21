@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hey there!! This is Apoorva. I am a 12 grader, focusing on machine learning.
 
 <!--
 **ApoorvaSoni21/ApoorvaSoni21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
